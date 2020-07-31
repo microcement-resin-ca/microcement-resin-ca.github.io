@@ -1,0 +1,29 @@
+@font-face {font-family: "stmicons";src: url("stmicons.eot?1kkwts");src: url("stmicons.eot?1kkwts#iefix") format("embedded-opentype"),url("stmicons.ttf?1kkwts") format("truetype"),url("stmicons.woff?1kkwts") format("woff"),url("stmicons.svg?1kkwts#stmicons") format("svg");font-weight: normal;font-style: normal;}
+[class^="stmicon-"], [class*=" stmicon-"] {font-family: "stmicons" !important;speak: none;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.stmicon-hotel-peoples:before {content: "颕";}
+.stmicon-hotel-parking:before {content: "颖";}
+.stmicon-hotel-breakfast-cup:before {content: "颗";}
+.stmicon-hotel-breakfast:before {content: "题";}
+.stmicon-hotel-concierge:before {content: "颙";}
+.stmicon-hotel-drinks:before {content: "颚";}
+.stmicon-hotel-event:before {content: "颛";}
+.stmicon-hotel-fitness:before {content: "颜";}
+.stmicon-hotel-internet:before {content: "额";}
+.stmicon-hotel-laundry:before {content: "颞";}
+.stmicon-hotel-map-pin:before {content: "颟";}
+.stmicon-hotel-meetings:before {content: "颠";}
+.stmicon-hotel-pool:before {content: "颡";}
+.stmicon-hotel-quotes:before {content: "颢";}
+.stmicon-hotel-resturant:before {content: "颣";}
+.stmicon-hotel-sauna:before {content: "颤";}
+.stmicon-hotel-send:before {content: "颥";}
+.stmicon-hotel-spa:before {content: "颦";}
+.stmicon-hotel-training:before {content: "颧";}
+.stmicon-hotel-wifi:before {content: "風";}
+.stmicon-phone:before {content: "颩";}
+.stmicon-date_range:before {content: "颪";}
+.stmicon-star:before {content: "颫";}
+.stmicon-keyboard_arrow_down:before {content: "颬";}
+.stmicon-keyboard_arrow_right:before {content: "颭";}
+.stmicon-mail_outline:before {content: "颮";}
+.stmicon-send:before {content: "颯";}

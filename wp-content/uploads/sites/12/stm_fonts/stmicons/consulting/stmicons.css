@@ -1,0 +1,16 @@
+@font-face {font-family: "stmicons";src: url("stmicons.eot?3d6lap");src: url("stmicons.eot?3d6lap#iefix") format("embedded-opentype"),url("stmicons.ttf?3d6lap") format("truetype"),url("stmicons.woff?3d6lap") format("woff"),url("stmicons.svg?3d6lap#stmicons") format("svg");font-weight: normal;font-style: normal;}
+[class^="stmicon-"], [class*=" stmicon-"] {font-family: "stmicons" !important;speak: none;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.stmicon-consulting_comment:before {content: "󙌪";}
+.stmicon-consulting_comment2:before {content: "󙌫";}
+.stmicon-consulting_comments:before {content: "󙌬";}
+.stmicon-consulting_notepad:before {content: "󙌭";}
+.stmicon-consulting_pin:before {content: "󙌮";}
+.stmicon-consulting_rocket:before {content: "󙌯";}
+.stmicon-consulting_schedule:before {content: "󙌰";}
+.stmicon-consulting_schedule2:before {content: "󙌱";}
+.stmicon-consulting_scholar:before {content: "󙌲";}
+.stmicon-consulting_settings:before {content: "󙌳";}
+.stmicon-consulting_specialist:before {content: "󙌴";}
+.stmicon-consulting_target:before {content: "󙌵";}
+.stmicon-consulting_views:before {content: "󙌶";}
+.stmicon-consulting_quote:before {content: "󙌷";}

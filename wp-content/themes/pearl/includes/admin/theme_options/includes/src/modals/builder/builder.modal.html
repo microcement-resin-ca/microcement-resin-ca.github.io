@@ -1,0 +1,9 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div class="stm_to-builder__elements">
+        <h4>Select Element</h4>
+        <div class="stm_to-builder__elements-row">
+            <div class="stm_to-builder__elements__element" ng-repeat="element in ::vm.elements track by $index" ng-click="vm.selectElement(element)">
+                <span>{{::element.label}}</span>
+            </div>
+        </div>
+</div></body></html>

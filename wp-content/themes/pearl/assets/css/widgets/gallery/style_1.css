@@ -1,0 +1,6 @@
+.stm_widget_media {display: -ms-flexbox;display: flex;-ms-flex-flow: wrap;flex-flow: wrap;margin: -15px -7.5px 0;}
+.stm_widget_media__single {display: block;width: 33.333%;padding: 15px 7.5px 0;}
+@media (max-width: 1024px) {.stm_widget_media__single img {width: 100%;}}
+.stm_wp_widget_post_gallery_style_1 .stm_widget_media__single {position: relative;}
+.stm_wp_widget_post_gallery_style_1 .stm_widget_media__single:after {content: "";display: block;position: absolute;top: 0;top: 15px;left: 0;left: 7px;right: 0;right: 7px;bottom: 0;background-color: #000;opacity: 0;transition: .3s ease;}
+.stm_wp_widget_post_gallery_style_1 .stm_widget_media__single:hover:after {opacity: .5;}

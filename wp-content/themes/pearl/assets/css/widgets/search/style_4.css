@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.stm_widget_search.style_4 .widget.widget_search:before {display: none !important;}
+.stm_widget_search.style_4 .widget.widget_search .search-form {position: relative;margin-bottom: 10px;}
+.stm_widget_search.style_4 .widget.widget_search .search-form .form-control {border-radius: 0;padding-top: 0;padding-bottom: 0;padding-left: 20px;height: 50px;background-color: transparent !important;border: 1px solid #ccc;}
+.stm_widget_search.style_4 .widget.widget_search .search-form button {color: #808080;background: transparent !important;background: none;position: absolute;top: 0;right: 0;width: 50px;height: 50px;border: none;outline: none;margin: 0;transition: all .3s ease;padding: 0 !important;}
+.stm_widget_search.style_4 .widget.widget_search .search-form button i:before {content: "􏿯" !important;font-family: "stmicons" !important;font-size: 19px;line-height: 50px;color: #333;}
+.stm_widget_search.style_4 .widget.widget_search .search-form button:after {display: none;}

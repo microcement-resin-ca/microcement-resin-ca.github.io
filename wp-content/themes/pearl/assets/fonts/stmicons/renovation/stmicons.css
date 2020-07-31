@@ -1,0 +1,16 @@
+@font-face {font-family: "stmicons";src: url("stmicons.eot?o3b1tq");src: url("stmicons.eot?o3b1tq#iefix") format("embedded-opentype"),url("stmicons.ttf?o3b1tq") format("truetype"),url("stmicons.woff?o3b1tq") format("woff"),url("stmicons.svg?o3b1tq#stmicons") format("svg");font-weight: normal;font-style: normal;}
+[class^="stmicon-"], [class*=" stmicon-"] {font-family: "stmicons" !important;speak: none;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.stmicon-renovation_shield:before {content: "𵑨";}
+.stmicon-renovation_diamond:before {content: "𵑩";}
+.stmicon-renovation_drill:before {content: "𵑪";}
+.stmicon-renovation_cup:before {content: "𵑫";}
+.stmicon-renovation_worker:before {content: "𵑬";}
+.stmicon-renovation_checklist:before {content: "𵑭";}
+.stmicon-renovation_customers:before {content: "𵑮";}
+.stmicon-renovation_carpentry:before {content: "𵑯";}
+.stmicon-renovation_electrical:before {content: "𵑰";}
+.stmicon-renovation_gears:before {content: "𵑱";}
+.stmicon-renovation_maintenance:before {content: "𵑲";}
+.stmicon-renovation_painting:before {content: "𵑳";}
+.stmicon-renovation_plumbing:before {content: "𵑴";}
+.stmicon-arrow_forward:before {content: "𵑵";}
